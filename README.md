@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20Leogy%20Santillan%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20Craftsman%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20[YourName]%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20Craftsman%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -25,15 +25,15 @@
 
 ```javascript
 const developer = {
-  name:        "Leogy Santillan",
+  name:        "[Your Name]",
   role:        "Full Stack Developer",
   location:    "🌏 Philippines",
-  code:        ["JavaScript", "TypeScript", "PHP"],
+  code:        ["JavaScript", "TypeScript", "PHP", "Python"],
   techStack: {
     frontend:  ["React", "Next.js", "Vue.js", "HTML5", "CSS3", "TailwindCSS"],
     backend:   ["Node.js", "NestJS", "Laravel", "Express.js"],
     databases: ["MongoDB", "MySQL", "MSSQL"],
-    tools:     ["Git", "Postman", "VS Code"],
+    tools:     ["Git", "Docker", "Postman", "VS Code"],
   },
   currentlyLearning: "Always something new 🚀",
   funFact:     "I debug with console.log and I'm not ashamed 😄",
@@ -63,6 +63,7 @@ const developer = {
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
@@ -76,6 +77,7 @@ const developer = {
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -83,27 +85,79 @@ const developer = {
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Work Experience
 
-<div align="center">
+| 🏢 Company | 💡 Role | 🛠️ Stack | 📅 Period |
+|---|---|---|---|
+| **[Company Name 1]** | Full Stack Developer | React, Node.js, MongoDB | Jan 2023 – Present |
+| **[Company Name 2]** | Frontend Developer | Vue.js, Laravel, MySQL | Jun 2021 – Dec 2022 |
+| **[Company Name 3]** | Junior Web Developer | PHP, HTML/CSS, MSSQL | Jan 2020 – May 2021 |
+| **[Company Name 4]** | Intern / Trainee | HTML, CSS, JavaScript | Jun 2019 – Dec 2019 |
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=6C63FF&text_color=FFFFFF&count_private=true" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=8" height="180" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=FF9500&currStreakLabel=6C63FF" />
-
-</div>
+> ✏️ _Replace the placeholders above with your actual companies, roles, and dates._
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛒 Project One</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <p align="center">[ Short description of what this project does, the problem it solves, and your role in building it. ]</p>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Live-Demo-ff6b9d?style=for-the-badge&logo=vercel" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Source-Code-6c63ff?style=for-the-badge&logo=github" /></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 Project Two</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <p align="center">[ Short description of what this project does, the problem it solves, and your role in building it. ]</p>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Live-Demo-ff6b9d?style=for-the-badge&logo=vercel" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Source-Code-6c63ff?style=for-the-badge&logo=github" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔐 Project Three</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+      </p>
+      <p align="center">[ Short description of what this project does, the problem it solves, and your role in building it. ]</p>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Live-Demo-ff6b9d?style=for-the-badge&logo=vercel" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Source-Code-6c63ff?style=for-the-badge&logo=github" /></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📱 Project Four</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <p align="center">[ Short description of what this project does, the problem it solves, and your role in building it. ]</p>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Live-Demo-ff6b9d?style=for-the-badge&logo=vercel" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Source-Code-6c63ff?style=for-the-badge&logo=github" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
