@@ -92,80 +92,8 @@ const developer = {
 | Dadiangas Medical Center | Full Stack Developer | Vue.js, Laravel, MSSQL | Dec 2025 – Present |
 | City Accountant's Office | Intern Full Stack Developer | Vue.js, Laravel, MySQL | Feb 2025 – May 2025 |
 
-> ✏️ _Replace the placeholders above with your actual companies, roles, and dates._
-
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛒 Project One</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <p align="center">[ Short description of what this project does, the problem it solves, and your role in building it. ]</p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Live-Demo-ff6b9d?style=for-the-badge&logo=vercel" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Source-Code-6c63ff?style=for-the-badge&logo=github" /></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 Project Two</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <p align="center">[ Short description of what this project does, the problem it solves, and your role in building it. ]</p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Live-Demo-ff6b9d?style=for-the-badge&logo=vercel" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Source-Code-6c63ff?style=for-the-badge&logo=github" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔐 Project Three</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-      </p>
-      <p align="center">[ Short description of what this project does, the problem it solves, and your role in building it. ]</p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Live-Demo-ff6b9d?style=for-the-badge&logo=vercel" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Source-Code-6c63ff?style=for-the-badge&logo=github" /></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📱 Project Four</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <p align="center">[ Short description of what this project does, the problem it solves, and your role in building it. ]</p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Live-Demo-ff6b9d?style=for-the-badge&logo=vercel" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Source-Code-6c63ff?style=for-the-badge&logo=github" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=redical&bg_color=0D1117&color=F75C7E&line=6C63FF&point=FF9500&area=true&hide_border=true" />
-</div>
-
----
 
 ## 🚀 What I'm Up To
 
@@ -180,16 +108,13 @@ const developer = {
 ## 🌐 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://ph.linkedin.com/in/leogy-santillan-265594246">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com">
+  <a href="mattsantillan6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://portfolio-leogy-santillan.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </div>
