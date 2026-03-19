@@ -12,9 +12,11 @@
 
 <!-- Profile Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=ff6b9d&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=6c63ff" />
+  <img src="https://komarev.com/ghpvc/?username=leogy06&label=Profile+Views&color=ff6b9d&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/leogy06?label=Followers&style=for-the-badge&color=6c63ff" />
   <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge&logo=checkmarx" />
+  <img src="https://img.shields.io/badge/Problem-Solver-ff6b9d?style=for-the-badge&logo=thinkpad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-6c63ff?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
 
 </div>
