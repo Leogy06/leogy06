@@ -90,7 +90,7 @@ const developer = {
 | 🏢 Company | 💡 Role | 🛠️ Stack | 📅 Period |
 |---|---|---|---|
 | Dadiangas Medical Center | Full Stack Developer | Vue.js, Laravel, MSSQL | Dec 2025 – Present |
-| City Accountant's Office | Intern Full Stack Developer | Vue.js, Laravel, MySQL | Feb 2025 – May 2025 |
+| City Accountant's Office | Intern Full Stack Developer | React.js, Node.js, MySQL | Feb 2025 – May 2025 |
 
 ---
 
