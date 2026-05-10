@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=false&random=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Vue+Enthusiast+%F0%9F%8E%A8;Node.js+%7C+NestJS+%7C+Laravel+Backend+Wizard+%E2%9A%A1;Laravel+%7C+PHP+Craftsman+%F0%9F%90%98;Database+Whisperer+%F0%9F%97%84%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=false&random=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Vue+Enthusiast+%F0%9F%8E%A8;Node.js+%7C+NestJS+%7C+Laravel+Backend+Wizard+%E2%9A%A1;Laravel+%7C+PHP+Craftsman+%F0%9F%90%98;Database+Whisperer+%F0%9F%97%84%EF%B8%8F;AI-Powered+Developer+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,7 +35,8 @@ const developer = {
     frontend:  ["React", "Next.js", "Vue.js", "HTML5", "CSS3", "TailwindCSS"],
     backend:   ["Node.js", "NestJS", "Laravel", "Express.js"],
     databases: ["MongoDB", "MySQL", "MSSQL"],
-    tools:     ["Git", "Postman", "VS Code", "Claude Chat AI"],
+    tools:     ["Git", "Postman", "VS Code", "GitHub Copilot"],
+    aiAssistants: ["Claude Sonnet 4.6", "ChatGPT", "Gemini", "GitHub Copilot"],
   },
   currentlyLearning: "Always something new 🚀",
   funFact:     "I debug with console.log and I'm not ashamed 😄",
@@ -83,6 +84,14 @@ const developer = {
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+### 🤖 AI Tools I Use
+<p>
+  <img src="https://img.shields.io/badge/Claude%20Sonnet%204.6-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+</p>
+
 ---
 
 ## 💼 Work Experience
@@ -94,11 +103,11 @@ const developer = {
 
 ---
 
-
 ## 🚀 What I'm Up To
 
 - 🔭 Currently building **full-stack web apps** with Next.js & NestJS
 - 🌱 Exploring **microservices architecture** and **cloud deployments**
+- 🤖 Leveraging **AI tools** like Claude, ChatGPT & GitHub Copilot to ship faster
 - 👯 Open to **collaborations** on interesting open-source projects
 - 💬 Ask me about **React, Vue, Node, Laravel, or database design**
 - ⚡ Fun fact: I turn ☕ coffee into `</code>`
@@ -122,7 +131,6 @@ const developer = {
 ---
 
 <div align="center">
-
 
 <br/>
 
